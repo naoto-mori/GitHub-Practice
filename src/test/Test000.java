@@ -18,6 +18,8 @@ public class Test000 {
 
 		System.out.println("強くいきて！倉橋さん！！");//2020/04/27[mori]
 
+		System.out.println("長かった…");
+
 	}
 
 }
