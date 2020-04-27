@@ -9,6 +9,6 @@
 <body>
 <h1>Hello GitHub!!</h1>
 <p>GitHubを使って開発をしてみましょう！</p>
-<a href="index.jsp">Top</a>
+<a href="index.jsp">Return Top</a>
 </body>
 </html>
