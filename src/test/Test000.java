@@ -16,6 +16,8 @@ public class Test000 {
 
 		System.out.println("あなたの名前は " + name + " だぜ！！！\nこれで勘弁して森さん・・・。(息絶える)");
 
+		System.out.println("強くいきて！倉橋さん！！");//2020/04/27[mori]
+
 	}
 
 }
